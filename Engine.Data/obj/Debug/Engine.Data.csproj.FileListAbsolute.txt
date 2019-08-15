@@ -1,0 +1,12 @@
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\bin\Debug\Engine.Data.dll.config
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\bin\Debug\Engine.Data.dll
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\bin\Debug\Engine.Data.pdb
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\bin\Debug\EntityFramework.dll
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\bin\Debug\EntityFramework.xml
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\obj\Debug\Engine.Data.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\obj\Debug\Engine.Data.csproj.CopyComplete
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\obj\Debug\Engine.Data.dll
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\obj\Debug\Engine.Data.pdb
+C:\Users\alexb\Perforce\FuckingWorkspace\GraphicsTest\Engine.Data\obj\Debug\Engine.Data.csprojAssemblyReference.cache

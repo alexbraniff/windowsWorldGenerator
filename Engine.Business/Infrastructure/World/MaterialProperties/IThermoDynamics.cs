@@ -1,0 +1,61 @@
+﻿namespace Engine.Core.Infrastructure.World.MaterialProperties
+{
+    public interface IThermoDynamics
+    {
+        float GetActivity();
+        float GetChemicalPotential();
+        float GetNumber();
+        float GetAdiabaticCompressibility();
+        float GetIsothermalCompressibility();
+        float GetCryoscopicConstant();
+        float GetDensity();
+        float GetEbullioscopicConstant();
+        float GetEnthalpy();
+        float GetSpecificEnthalpy();
+        float GetEntropy();
+        float GetTemperature();
+        float GetSpecificEntropy();
+        float GetFugacity();
+        float GetGibbsFreeEnergy();
+        float GetSpecificGibbsFreeEntropy();
+        float GetGibbsFreeEntropy();
+        float GetLandauPotential();
+        float GetHeatCapacityAtConstantPressure();
+        float GetSpecificHeatCapacityAtConstantPressure();
+        float GetHeatCapacityAtConstantVolume();
+        float GetSpecificHeatCapacityAtConstantVolume();
+        float GetHelmholtzFreeEnergy();
+        float GetHelmholtzFreeEentropy();
+        float GetInternalEnergy();
+        float GetSpecificInternalEnergy();
+        float GetInternalPressure();
+        float GetMass();
+        float GetParticleNumber();
+        float GetPotential();
+        float GetPressure();
+        float GetVolume();
+        float GetThermalConductivity();
+        float GetThermalDiffusivity();
+        float GetLinearThermalExpansion();
+        float GetAreaThermalExpansion();
+        float GetVolumetricThermalExpansion();
+        float GetVaporQuality();
+        float GetSpecificVolume();
+        float GetBinaryPhaseDiagram();
+        float GetBoilingPoint();
+        float GetCoefficientOfThermalExpansion();
+        float GetCriticalTemperature();
+        float GetEmissivity();
+        float GetEutecticPoint();
+        float GetFlammability();
+        float GetFlashPoint();
+        float GetGlassTransitionTemperature();
+        float GetHeatOfVaporization();
+        float GetInversionTemperature();
+        float GetMeltingPoint();
+        float GetSpecificHeat();
+        float GetTriplePoint();
+        float GetVaporPressure();
+        float GetSpecificHeatCapacity();
+    }
+}
